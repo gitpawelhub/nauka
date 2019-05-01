@@ -7,7 +7,5 @@
 using namespace std;
 int main()
 {
-    std::cout << "Hello W!\n"; 
-	std::cout << "Nie dziala\n";
-	
+    
 }
